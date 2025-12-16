@@ -1,4 +1,5 @@
 import React from "react";
+import TechnicalMethods from "./components/TechnicalMethods";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Motivation from "./components/Motivation";
